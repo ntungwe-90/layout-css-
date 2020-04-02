@@ -1,0 +1,36 @@
+#top{
+	background-color: red;
+	height: 50px;
+	margin-bottom: 10px
+}
+#second{
+	background-color:yellow;
+	height: 200px;
+}
+
+
+.third div{
+	background-color: green;
+	height: 150px;
+	width: 30%;
+	border-style: solid 1.3px black;
+	margin: 1%;
+}
+	
+
+.third{
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: space-between;
+	/*text-align: space-between;*/
+
+}
+footer {
+	width: 100%;
+	background-color: blue;
+	text-align: center;
+	height: 100px;
+}
+
+
+	
